@@ -1,6 +1,2 @@
 # Python-Grad-Work
-Grad school work done using Python.
-
-print("Hello World")
-
-#Easy enough!
+Entry-Level programming from grad school classes using Python.
